@@ -39,7 +39,7 @@
   curl http://andrijunaedi.io
   ```
 
-- Perika Log Access dan Error Nginx
+- Periksa Log Access dan Error Nginx
 
   ```
   sudo tail -f /var/log/nginx/access.log /var/log/nginx/error.log

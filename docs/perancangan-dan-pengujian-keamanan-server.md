@@ -35,7 +35,7 @@
   Jika port default SSH
 
   ```
-  sudo ufw allow 2222/tcp
+  sudo ufw allow 22/tcp
   ```
 
   Allow HTTP (80) dan HTTPS (443)

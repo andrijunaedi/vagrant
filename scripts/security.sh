@@ -28,4 +28,5 @@ maxretry = 5
 EOF
 
 # Restart Fail2Ban
-systemctl restart fail2ban
+systemctl start fail2ban
+systemctl enable fail2ban
